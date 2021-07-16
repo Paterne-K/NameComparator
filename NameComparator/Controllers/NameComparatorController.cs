@@ -6,7 +6,7 @@ using NameComparator.Models;
 
 namespace NameComparator.Controllers
 {
-    [Route("api")]
+    [Route("apicf")]
     [ApiController]
     public class NameComparatorController : ControllerBase
     {
